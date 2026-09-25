@@ -1,123 +1,111 @@
-GoLabsNet - InDesign Style Manager
+# InDesign Style Manager
 
-Manage, search and clean Adobe InDesign styles from one centralized workspace
+## Manage InDesign styles without constantly switching between panels.
 
-Stop switching between multiple style panels
+Managing styles in large Adobe InDesign documents can quickly become frustrating.
 
-Managing styles in a large InDesign document can quickly become repetitive.
+Paragraph Styles, Character Styles, Object Styles and Cell Styles are spread across different panels and groups. Finding the right style, renaming several styles or cleaning unused styles can require a lot of repetitive navigation.
 
-Paragraph Styles, Character Styles, Object Styles and Cell Styles are spread across different panels and groups. Finding the right style, renaming several styles, removing unused styles or checking style usage across a Book can require a lot of manual navigation.
+InDesign Style Manager brings these style-management tasks together in one dedicated workspace.
 
-InDesign Style Manager brings these tasks together in one dedicated workspace.
+Designed for real production workflows.
 
-Search, filter, apply, create, duplicate, rename and clean styles without constantly switching between different panels.
+---
 
-Before / After
-Before
-Search through multiple InDesign style panels
-Navigate through style groups manually
-Repeatedly switch between Paragraph, Character, Object and Cell Styles
-Rename styles one at a time
-Remove unused styles manually
-Check style usage across Book documents separately
-Risk removing Character Styles that are still referenced indirectly
-After
-Search multiple style families from one palette
-Filter styles quickly
-Apply styles directly from the workspace
-Create and duplicate styles without changing panels
-Rename styles by double-clicking their names
-Delete multiple styles in one operation
-Protect Character Styles referenced by GREP Styles or Nested Styles
-Check style usage across an InDesign Book
-Clean Book documents when the required documents are open in InDesign
-Why this tool exists
+## Before / After
 
-Large editorial and production documents often accumulate many styles over time.
+| BEFORE | AFTER |
+|---------|-------|
+| Open different Style panels | Run InDesign Style Manager |
+| Search for the required style | Search and filter instantly |
+| Navigate through Style Groups | Manage styles from one workspace |
+| Apply styles manually | Apply styles directly |
+| Create or duplicate styles | Create or duplicate from the palette |
+| Rename styles one by one | Rename quickly |
+| Review unused styles manually | Identify unused styles |
+| Check Book documents separately | Check style usage across a Book |
+| Clean styles individually | Perform broader cleanup when required |
 
-Some are still required. Others may be obsolete, duplicated, difficult to locate or spread across several style groups.
+---
 
-The problem is not only the number of styles.
+## Why this tool exists
 
-It is the repeated navigation required to manage them.
+Large InDesign documents can accumulate a significant number of styles over time.
 
-InDesign Style Manager centralizes the most common style-management operations so production work can stay focused on the document instead of the panels.
+Projects may contain:
 
-Workflow / Use Case
+- Paragraph Styles
+- Character Styles
+- Object Styles
+- Cell Styles
+- multiple Style Groups
+- unused styles
+- styles referenced indirectly by GREP Styles or Nested Styles
+- multiple documents within an InDesign Book
 
-A typical production workflow might look like this:
+Managing these styles manually can become repetitive and difficult to review.
 
-Open the InDesign document.
-Launch InDesign Style Manager.
-Select the style family you need.
-Search or filter the list to locate the relevant styles.
-Apply, create, duplicate or rename styles as required.
-Use the cleanup tools when reviewing unused styles.
-When working with an InDesign Book, check style usage across the Book before performing a broader cleanup.
+InDesign Style Manager centralizes the most common style-management operations in one workspace.
 
-The palette can remain open while you continue working in InDesign.
+---
 
-For Book-wide cleanup, the documents concerned must be open in InDesign.
+## Key features
 
-Key Features
-Centralized management of Paragraph, Character, Object and Cell Styles
-Instant style search
-Wildcard search support
-Style Group and folder display
-Selection Only filtering
-Manual or automatic style application
-Create styles
-Duplicate styles
-Multi-selection deletion
-Quick renaming by double-clicking a style name
-Protection of Character Styles used by GREP Styles or Nested Styles
-Detection and removal of unused styles
-Style usage analysis across an InDesign Book
-Cleanup of multiple documents in an InDesign Book
-Backup option during full Book cleanup
-Final operation summary
-Production Considerations
+- Manage Paragraph, Character, Object and Cell Styles
+- Instant style search with wildcard support
+- Style Group and folder display
+- Selection Only filtering
+- Automatic or manual style application
+- Create and duplicate styles
+- Multi-selection deletion
+- Quick style renaming
+- Protect Character Styles used by GREP Styles or Nested Styles
+- Identify and remove unused styles
+- Check style usage across an InDesign Book
+- Clean styles across an InDesign Book
+- Final operation summary
+- Backup option during full Book cleanup
 
-Style cleanup can affect document content and should be reviewed before confirmation.
+---
 
-The tool does not replace complete style synchronization between documents.
+## Production workflow
 
-For Book-wide operations:
+InDesign Style Manager is designed for everyday production situations where styles need to be found, reviewed, applied or cleaned without repeatedly switching between InDesign panels.
 
-The relevant Book documents must be open in InDesign.
-Review the detected usage before performing a broader cleanup.
-Appropriate document backups are recommended before cleanup operations.
+A typical workflow is:
 
-The tool works with the active InDesign document for normal operations.
+1. Open the InDesign document.
+2. Launch InDesign Style Manager.
+3. Select the required style family.
+4. Search or filter styles.
+5. Apply, create, duplicate or rename styles.
+6. Review unused styles when cleaning a document.
+7. Check style usage across an InDesign Book when required.
 
-Some functionality depends on the capabilities of the installed InDesign version.
+The palette can remain open while continuing to work in InDesign.
 
-Compatibility
+Book-wide cleanup requires the relevant documents to be open in InDesign.
 
-Adobe InDesign 2023–2026+
+---
 
-Windows & macOS
+## Compatibility
 
-Get InDesign Style Manager
+- Adobe InDesign 2023–2026+
+- Windows
+- macOS
 
-The full version is available on Gumroad:
+---
 
-€8
+## Professional Edition
 
-Get InDesign Style Manager
+Download InDesign Style Manager on Gumroad:
 
-Knowledge Base
+**👉 https://golabsnet.gumroad.com/l/Indesign-Style-Manager**
 
-Learn more about common InDesign style-management problems:
+---
 
-How to Manage Too Many Styles in Adobe InDesign
-How to Find and Remove Unused Styles in Adobe InDesign
-About GoLabsNet
+## About GoLabsNet
 
-GoLabsNet is a growing library of workflow automation tools for Adobe InDesign and production environments.
+GoLabsNet develops automation tools designed for real production workflows.
 
-The goal is simple: reduce repetitive production work with focused tools designed around real document workflows.
-
-Explore more tools:
-
-https://golabsnet.gumroad.com/
+Every product is created to remove repetitive production tasks while remaining reliable on real-world projects.
